@@ -12,6 +12,7 @@ Presentation slides:
 
 
 1. Project Overview </br>
+ 
   Problem: 
 - Planning a trip may seem overwhelming due to the plethora of options on the internet and opinion from different people in the travel group. 
 - Students might feel discouraged to travel due to tight budgets. 
