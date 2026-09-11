@@ -4,7 +4,7 @@ The prototype for travel planner website
 
 Travellah by HelloWorld 
 Team:  Yoshana, Shobana, Tan Zen Yu, Sherryl 
-Problem statement: Travel 
+Problem statement: Travel planner
 Video Presentation: 
 
 Presentation slides:
@@ -13,14 +13,14 @@ Presentation slides:
 
 Project Overview
 Problem: 
-Planning a trip may seem overwhelming due to the plethora of options on the internet and opinion from different people in the travel group. 
-Students might feel discouraged to travel due to tight budgets. 
+- Planning a trip may seem overwhelming due to the plethora of options on the internet and opinion from different people in the travel group. 
+- Students might feel discouraged to travel due to tight budgets. 
 
 
 Solution: 
-Website that helps you organise your travel plans 
-Assists in planning according to your budget 
-Allows multiple people to collaborate on one travel plan 
+- Website that helps you organise your travel plans 
+- Assists in planning according to your budget 
+- Allows multiple people to collaborate on one travel plan 
 
 
 
