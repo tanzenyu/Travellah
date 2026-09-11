@@ -11,8 +11,8 @@ Presentation slides:
 [https://canva.link/mbexyct6vo289gp](https://canva.link/mbexyct6vo289gp)
 
 
-Project Overview
-Problem: 
+1. Project Overview
+  Problem: 
 - Planning a trip may seem overwhelming due to the plethora of options on the internet and opinion from different people in the travel group. 
 - Students might feel discouraged to travel due to tight budgets. 
 
@@ -24,8 +24,14 @@ Solution:
 
 
 
-Ideation Process 
+2. Ideation Process 
 2.1 Ideas we considered 
+
+
+
+2.2 Ideation board 
+
+Discussing the flow and navigation of website (with flow chart) [refer to flowchart.png]
 
 
 Travel guide app
@@ -36,16 +42,16 @@ Travel planner website
 - Chosen because it's compatible with all devices. 
 
 
-Design & Prototype
+3. Design & Prototype
 https://www.canva.com/design/DAHUUTmmuRs/WP0vH5wgySz9Q5LyupNrcw/edit
 
 
-What makes our website different 
+4. What makes our website different 
 Allows multiple users to collaborate one one plan 
 Allow user to create multiple travel plans, save them and they can access it whenever they like. 
 
 
-Technical Architecture & Feasibility 
+5. Technical Architecture & Feasibility 
 Tech stack:
 - php (server)
 - Css (design)
