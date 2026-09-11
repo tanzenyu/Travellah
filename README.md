@@ -29,11 +29,11 @@ Ideation Process
 
 
 Travel guide app
--Didn’t choose because there were many similar apps in the market and we did not want to use app interface as it can’t be properly accessed on desktop. 
+- Didn’t choose because there were many similar apps in the market and we did not want to use app interface as it can’t be properly accessed on desktop. 
 
 
 Travel planner website 
--Chosen because it's compatible with all devices. 
+- Chosen because it's compatible with all devices. 
 
 
 Design & Prototype
