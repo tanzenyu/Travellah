@@ -40,7 +40,8 @@ Travel planner website
 
 2.2 Ideation board 
 
-Discussing the flow and navigation of website (with flow chart) [refer to flowchart.pdf]
+Discussing the flow and navigation of website (with flow chart)
+![Flow chart](flowchart.pdf)
 
 
 2.3 Mentor Consultation
