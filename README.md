@@ -1,3 +1,7 @@
+
+
+
+
 # Travellah
 The prototype for travel planner website
 
@@ -8,9 +12,11 @@ Team:  Yoshana, Shobana, Tan Zen Yu, Sherryl
 Problem statement: Travel planner <br/>
 
 Video Presentation: 
+https://youtu.be/tMI8brHmo0E
 
 Presentation slides:
-[https://canva.link/mbexyct6vo289gp](https://canva.link/mbexyct6vo289gp)
+- https://canva.link/mbexyct6vo289gp
+- https://canva.link/oeq2d7ghcbhp2uf
 
 
 1. Project Overview </br>
@@ -31,11 +37,12 @@ Solution:
 2.1 Ideas we considered 
 
 Travel guide app
-- Didn’t choose because there were many similar apps in the market and we did not want to use app interface as it can’t be properly accessed on desktop. 
+- Didn’t choose because there were many similar apps in the market and the difficulty of desktop compatibility.
 
 
 Travel planner website 
-- Chosen because it's compatible with all devices. 
+- Chosen because website is more compatible with all devices.
+- Decided to add budgeting idea 
 
 
 2.2 Ideation board 
@@ -65,7 +72,7 @@ Mentor Mah Qing Fung
 
 
 3. Design & Prototype
-https://www.canva.com/design/DAHUUTmmuRs/WP0vH5wgySz9Q5LyupNrcw/edit
+https://canva.link/oeq2d7ghcbhp2uf
 
 
 4. What makes our website different <br/>
