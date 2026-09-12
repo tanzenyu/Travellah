@@ -4,7 +4,9 @@ The prototype for travel planner website
 
 Travellah by HelloWorld 
 Team:  Yoshana, Shobana, Tan Zen Yu, Sherryl 
-Problem statement: Travel planner
+
+Problem statement: Travel planner <br/>
+
 Video Presentation: 
 
 Presentation slides:
