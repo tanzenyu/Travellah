@@ -58,6 +58,7 @@ Mentor Chua Zhu Heng
 
 Mentor Mah Qing Fung
 
+- Advised us to use coding websites but due to some complications we had to continue using Canva
 
 
 3. Design & Prototype
