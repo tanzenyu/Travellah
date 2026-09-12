@@ -81,7 +81,7 @@ https://canva.link/oeq2d7ghcbhp2uf
 - Allow user to create multiple travel plans, save them and they can access it whenever they like. 
 
 
-5. Technical Architecture & Feasibility 
+5. Technical Architecture & Feasibility <br/>
 Tech stack:
 - php (server)
 - Css (design)
