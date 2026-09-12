@@ -21,7 +21,7 @@ Presentation slides:
 Solution: 
 - Website that helps you organise your travel plans 
 - Assists in planning according to your budget 
-- Allows multiple people to collaborate on one travel plan 
+- Allows multiple people to collaborate in one travel plan 
 
 
 
