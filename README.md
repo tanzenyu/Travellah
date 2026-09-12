@@ -65,7 +65,8 @@ https://www.canva.com/design/DAHUUTmmuRs/WP0vH5wgySz9Q5LyupNrcw/edit
 
 
 4. What makes our website different <br/>
-- Allows multiple users to collaborate one one plan 
+- Allows multiple users to collaborate one one plan
+- Does the calculations for budgeting according to the overall budget entered by the user.   
 - Allow user to create multiple travel plans, save them and they can access it whenever they like. 
 
 
