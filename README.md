@@ -33,7 +33,7 @@ Solution:
 
 
 
-2. Ideation Process
+2. Ideation Process <br/>
 2.1 Ideas we considered 
 
 Travel guide app
