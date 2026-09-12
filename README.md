@@ -28,6 +28,12 @@ Solution:
 2. Ideation Process 
 2.1 Ideas we considered 
 
+Travel guide app
+- Didn’t choose because there were many similar apps in the market and we did not want to use app interface as it can’t be properly accessed on desktop. 
+
+
+Travel planner website 
+- Chosen because it's compatible with all devices. 
 
 
 2.2 Ideation board 
@@ -35,12 +41,23 @@ Solution:
 Discussing the flow and navigation of website (with flow chart) [refer to flowchart.png]
 
 
-Travel guide app
-- Didn’t choose because there were many similar apps in the market and we did not want to use app interface as it can’t be properly accessed on desktop. 
+2.3 Mentor Consultation
+
+1st Mentorship <br/>
+
+Mentor Chua Zhu Heng 
+
+- Removed transport due to complications 
+
+- Switch prototype format from canva to coding ui
+
+- We still ended up using canva after trying to code the prototype due to time constraints and complications
 
 
-Travel planner website 
-- Chosen because it's compatible with all devices. 
+2nd Mentorship <br/>
+
+Mentor Mah Qing Fung
+
 
 
 3. Design & Prototype
